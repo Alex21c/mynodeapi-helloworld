@@ -1,0 +1,13 @@
+ {
+  "1001": {
+    "name": "MMTC PAMP 999.9 Fine Gold 10gm",
+    "price": 80000,
+    "currency": "₹"
+  },
+  "1002": {
+    "name": "Kundan 999.9 Fine Silver 250gm",
+    "price": 25000,
+    "currency": "₹"
+  }
+  
+}
